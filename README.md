@@ -1,2 +1,3 @@
 # MiniShell
-UNIX command interpreter in C.
+### USAGE :
+     make re && ./mysh
